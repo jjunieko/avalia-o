@@ -1,7 +1,7 @@
 # avaliação 
 
-##teste surritec 
+## teste surritec 
 
-##inclui Mysql JAVA EE no Back- end 
+## inclui Mysql JAVA EE no Back- end 
 
-##no Front-end inclui a tela de login em seguida o cadastramento de componentes do usuário
+## no Front-end inclui a tela de login em seguida o cadastramento de componentes do usuário
